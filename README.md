@@ -36,6 +36,6 @@ Features of the Application:
 
 **Do rate and share if you like the gapp.**
 ## Screenshots
-![](./Screenshot1.png)
-![](./Screenshot2.png)
-![](./Screenshot3.png)
+![](./Screenshot1.jpg)
+![](./Screenshot2.jpg)
+![](./Screenshot3.jpg)
