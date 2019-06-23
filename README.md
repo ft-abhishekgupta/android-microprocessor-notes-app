@@ -1,6 +1,6 @@
 # Microprocessor 8085 - Android Notes App
 ![](./logo.png) 
-<a href="https://www.youtube.com/watch?v=GkqCfLo54t8"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
+<a href="https://play.google.com/store/apps/details?id=com.notes.microprocessor_aktu"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
 
 ## To use source code : 
 1. Clone Repository <br>
@@ -34,7 +34,7 @@ Features of the Application:
  To the point explanation of topics
  Handy for quick revision
 
-**Do rate and share if you like the game.**
+**Do rate and share if you like the gapp.**
 ## Screenshots
 ![](./Screenshot1.png)
 ![](./Screenshot2.png)
