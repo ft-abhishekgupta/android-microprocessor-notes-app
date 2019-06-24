@@ -16,25 +16,25 @@
 
 The application contains unit wise discussion of the subject. The instructions of 8085 along with their functions and other specifications are separated out from the rest of the discussion. This helps the reader for last minute revision of all the instructions quickly.
 
-The application includes :
-* Syllabus (AKTU)
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Instruction Set
+### The application includes :
+1. Syllabus (AKTU)
+1. Unit 1
+1. Unit 2
+1. Unit 3
+1. Unit 4
+1. Unit 5
+1. Instruction Set
 
-Features of the Application:
- Simple Layout
- Easy Navigation from one section to another
- All the 8085 instructions are discussed separately under the section "Instruction Set"
- Easy and neat Diagrams are used to make the concept more clear.
- Easy to read and understandable font is used
- To the point explanation of topics
- Handy for quick revision
+### Features of the Application:
+* Simple Layout
+* Easy Navigation from one section to another
+* All the 8085 instructions are discussed separately under the section "Instruction Set"
+* Easy and neat Diagrams are used to make the concept more clear.
+* Easy to read and understandable font is used
+* To the point explanation of topics
+* Handy for quick revision
 
-**Do rate and share if you like the gapp.**
+**Do rate and share if you like the app.**
 ## Screenshots
 ![](./Screenshot1.jpg)
 ![](./Screenshot2.jpg)
